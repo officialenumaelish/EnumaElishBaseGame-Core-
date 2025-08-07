@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas >
+	<Texture>Sprites/hoja_de_sprites</Texture>
+	<Regions>
+		<Region name="arbol_rosado_1" x="366" y="270" width="113" height="128"></Region>
+		<Region name="arbol_rosado_2" x="270" y="275" width="93" height="133"></Region>
+		<Region name="arbol_talado" x="270" y="124" width="54" height="53"></Region>
+		<Region name="suelo" x="0" y="157" width="269" height="269"></Region>
+		<Region name="suelo_claro" x="366" y="0" width="269" height="269"></Region>
+		<Region name="Arbol_destrozado" x="270" y="178" width="76" height="96"></Region>
+		<Region name="Arbol_verde" x="162" y="0" width="97" height="124"></Region>
+		<Region name="Arbol_otono" x="270" y="0" width="95" height="123"></Region>
+		<Region name="Arbol_gigante" x="67" y="0" width="94" height="151"></Region>
+		<Region name="Arbol_verde_noche" x="480" y="270" width="96" height="120"></Region>
+		<Region name="botella_dorada" x="162" y="125" width="10" height="16"></Region>
+		<Region name="arbol_pino" x="0" y="0" width="66" height="156"></Region>
+	</Regions>
+	<Animations>
+		<Animation name="no_hay" delay="200">
+			<Frame region="suelo" />
+		</Animation>
+	</Animations>
+</TextureAtlas>

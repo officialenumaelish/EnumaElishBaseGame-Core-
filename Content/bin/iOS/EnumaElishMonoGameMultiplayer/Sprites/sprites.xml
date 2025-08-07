@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+	<Texture>Sprites/spritesheet</Texture>
+	<Regions>
+		<Region name="cesped" x="0" y="0" width="736" height="736"></Region>
+		<Region name="Arbol_destrozado" x="594" y="737" width="76" height="96"></Region>
+		<Region name="Arbol_gigante" x="0" y="737" width="94" height="151"></Region>
+		<Region name="Arbol_otono" x="401" y="737" width="95" height="123"></Region>
+		<Region name="arbol_pino" x="737" y="0" width="66" height="156"></Region>
+		<Region name="arbol_rosado_1" x="189" y="737" width="113" height="128"></Region>
+		<Region name="arbol_rosado_2" x="95" y="737" width="93" height="133"></Region>
+		<Region name="arbol_talado" x="671" y="737" width="54" height="53"></Region>
+		<Region name="Arbol_verde" x="303" y="737" width="97" height="124"></Region>
+		<Region name="Arbol_verde_noche" x="497" y="737" width="96" height="120"></Region>
+		<Region name="botella_dorada" x="95" y="871" width="10" height="16"></Region>
+	</Regions>
+	<Animations>
+		<Animation name="no_hay" delay="200">
+			<Frame region="cesped" />
+			<Frame region="cesped" />
+			<Frame region="cesped" />
+		</Animation>
+	</Animations>
+</TextureAtlas>
