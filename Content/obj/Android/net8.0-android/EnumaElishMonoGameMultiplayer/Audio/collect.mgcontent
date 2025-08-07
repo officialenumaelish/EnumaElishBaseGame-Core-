@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/Audio/collect.wav</SourceFile>
+  <SourceTime>2025-07-26T14:29:15.3206721-04:00</SourceTime>
+  <DestFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/bin/Android/EnumaElishMonoGameMultiplayer/Audio/collect.xnb</DestFile>
+  <DestTime>2025-07-28T15:56:03.6281709-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

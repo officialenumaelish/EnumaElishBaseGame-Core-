@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/Audio/theme.ogg</SourceFile>
+  <SourceTime>2025-07-26T14:29:16.3326459-04:00</SourceTime>
+  <DestFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/bin/Windows/EnumaElishMonoGameMultiplayer/Audio/theme.xnb</DestFile>
+  <DestTime>2025-07-28T16:00:16.1903265-04:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/bin/Windows/EnumaElishMonoGameMultiplayer/Audio/theme.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

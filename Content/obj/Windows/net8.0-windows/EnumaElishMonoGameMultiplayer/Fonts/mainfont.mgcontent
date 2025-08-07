@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/Fonts/mainfont.spritefont</SourceFile>
+  <SourceTime>2025-07-26T15:22:25.0719049-04:00</SourceTime>
+  <DestFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/bin/Windows/EnumaElishMonoGameMultiplayer/Fonts/mainfont.xnb</DestFile>
+  <DestTime>2025-07-28T16:00:16.3642802-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
