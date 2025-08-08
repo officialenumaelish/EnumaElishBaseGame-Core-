@@ -78,3 +78,18 @@
 #begin Sprites/tilemap_definitions.xml
 /copy:Sprites/tilemap_definitions.xml
 
+#begin Utilities/hoja_de_utilidades.xml
+/copy:Utilities/hoja_de_utilidades.xml
+
+#begin Utilities/utilidades.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Utilities/utilidades.png
+

@@ -16,8 +16,17 @@
 		<Region name="arbol_pino" x="0" y="0" width="66" height="156"></Region>
 	</Regions>
 	<Animations>
-		<Animation name="no_hay" delay="200">
+		<Animation name="main" delay="200">
+			<Frame region="Arbol_gigante" />
+			<Frame region="Arbol_otono" />
+			<Frame region="Arbol_destrozado" />
+			<Frame region="arbol_rosado_1" />
+			<Frame region="arbol_rosado_2" />
+			<Frame region="arbol_pino" />
+		</Animation>
+		<Animation name="main2" delay="200">
 			<Frame region="suelo" />
+			<Frame region="suelo_claro" />
 		</Animation>
 	</Animations>
 </TextureAtlas>

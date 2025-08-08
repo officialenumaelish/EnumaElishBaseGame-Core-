@@ -9,7 +9,7 @@
 
 using System;
 
-namespace EnumaElishMonoGameMultiplayer.Core.Localization
+namespace EnumaElishMonoGameLibrary.Core.Localization
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.

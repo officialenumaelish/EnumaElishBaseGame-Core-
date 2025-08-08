@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/Sprites/hoja_de_sprites.png</SourceFile>
-  <SourceTime>2025-07-24T18:38:53.3611511-04:00</SourceTime>
+  <SourceTime>2025-08-07T09:21:09.3908609-04:00</SourceTime>
   <DestFile>C:/Users/Usuario/Desktop/personal/EnumaElishMonoGameMultiplayer/EnumaElishMonoGameMultiplayer.Core/Content/bin/DesktopGL/EnumaElishMonoGameMultiplayer/Sprites/hoja_de_sprites.xnb</DestFile>
-  <DestTime>2025-07-24T18:48:44.3963279-04:00</DestTime>
+  <DestTime>2025-08-07T10:52:33.4153044-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
